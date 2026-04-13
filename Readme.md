@@ -1,3 +1,3 @@
 <p>Hello Test</p>
 <p>New Change</p>
-<h5>Bad Commit</h5>
+<h5>Bug</h5>
